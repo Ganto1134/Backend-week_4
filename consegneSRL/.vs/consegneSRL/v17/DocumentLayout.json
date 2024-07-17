@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs\\Backend-week_4\\consegneSRL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA88C05-6C46-4B8C-8DA2-EC0B712A516B}|consegneSRL\\consegneSRL.csproj|d:\\vs\\backend-week_4\\consegnesrl\\consegnesrl\\controllers\\statospedizionicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA88C05-6C46-4B8C-8DA2-EC0B712A516B}|consegneSRL\\consegneSRL.csproj|solutionrelative:consegnesrl\\controllers\\statospedizionicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA88C05-6C46-4B8C-8DA2-EC0B712A516B}|consegneSRL\\consegneSRL.csproj|d:\\vs\\backend-week_4\\consegnesrl\\consegnesrl\\controllers\\clienticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA88C05-6C46-4B8C-8DA2-EC0B712A516B}|consegneSRL\\consegneSRL.csproj|solutionrelative:consegnesrl\\controllers\\clienticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA88C05-6C46-4B8C-8DA2-EC0B712A516B}|consegneSRL\\consegneSRL.csproj|d:\\vs\\backend-week_4\\consegnesrl\\consegnesrl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA88C05-6C46-4B8C-8DA2-EC0B712A516B}|consegneSRL\\consegneSRL.csproj|solutionrelative:consegnesrl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA88C05-6C46-4B8C-8DA2-EC0B712A516B}|consegneSRL\\consegneSRL.csproj|d:\\vs\\backend-week_4\\consegnesrl\\consegnesrl\\controllers\\spedizionicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA88C05-6C46-4B8C-8DA2-EC0B712A516B}|consegneSRL\\consegneSRL.csproj|solutionrelative:consegnesrl\\controllers\\spedizionicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA88C05-6C46-4B8C-8DA2-EC0B712A516B}|consegneSRL\\consegneSRL.csproj|d:\\vs\\backend-week_4\\consegnesrl\\consegnesrl\\views\\spedizioni\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA88C05-6C46-4B8C-8DA2-EC0B712A516B}|consegneSRL\\consegneSRL.csproj|solutionrelative:consegnesrl\\views\\spedizioni\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA88C05-6C46-4B8C-8DA2-EC0B712A516B}|consegneSRL\\consegneSRL.csproj|d:\\vs\\backend-week_4\\consegnesrl\\consegnesrl\\views\\spedizioni\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA88C05-6C46-4B8C-8DA2-EC0B712A516B}|consegneSRL\\consegneSRL.csproj|solutionrelative:consegnesrl\\views\\spedizioni\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA88C05-6C46-4B8C-8DA2-EC0B712A516B}|consegneSRL\\consegneSRL.csproj|d:\\vs\\backend-week_4\\consegnesrl\\consegnesrl\\views\\spedizioni\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA88C05-6C46-4B8C-8DA2-EC0B712A516B}|consegneSRL\\consegneSRL.csproj|solutionrelative:consegnesrl\\views\\spedizioni\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA88C05-6C46-4B8C-8DA2-EC0B712A516B}|consegneSRL\\consegneSRL.csproj|d:\\vs\\backend-week_4\\consegnesrl\\consegnesrl\\views\\spedizioni\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA88C05-6C46-4B8C-8DA2-EC0B712A516B}|consegneSRL\\consegneSRL.csproj|solutionrelative:consegnesrl\\views\\spedizioni\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA88C05-6C46-4B8C-8DA2-EC0B712A516B}|consegneSRL\\consegneSRL.csproj|d:\\vs\\backend-week_4\\consegnesrl\\consegnesrl\\views\\spedizioni\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA88C05-6C46-4B8C-8DA2-EC0B712A516B}|consegneSRL\\consegneSRL.csproj|solutionrelative:consegnesrl\\views\\spedizioni\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA88C05-6C46-4B8C-8DA2-EC0B712A516B}|consegneSRL\\consegneSRL.csproj|d:\\vs\\backend-week_4\\consegnesrl\\consegnesrl\\views\\clienti\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA88C05-6C46-4B8C-8DA2-EC0B712A516B}|consegneSRL\\consegneSRL.csproj|solutionrelative:consegnesrl\\views\\clienti\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA88C05-6C46-4B8C-8DA2-EC0B712A516B}|consegneSRL\\consegneSRL.csproj|d:\\vs\\backend-week_4\\consegnesrl\\consegnesrl\\views\\clienti\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA88C05-6C46-4B8C-8DA2-EC0B712A516B}|consegneSRL\\consegneSRL.csproj|solutionrelative:consegnesrl\\views\\clienti\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA88C05-6C46-4B8C-8DA2-EC0B712A516B}|consegneSRL\\consegneSRL.csproj|d:\\vs\\backend-week_4\\consegnesrl\\consegnesrl\\views\\clienti\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA88C05-6C46-4B8C-8DA2-EC0B712A516B}|consegneSRL\\consegneSRL.csproj|solutionrelative:consegnesrl\\views\\clienti\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA88C05-6C46-4B8C-8DA2-EC0B712A516B}|consegneSRL\\consegneSRL.csproj|d:\\vs\\backend-week_4\\consegnesrl\\consegnesrl\\views\\clienti\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA88C05-6C46-4B8C-8DA2-EC0B712A516B}|consegneSRL\\consegneSRL.csproj|solutionrelative:consegnesrl\\views\\clienti\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA88C05-6C46-4B8C-8DA2-EC0B712A516B}|consegneSRL\\consegneSRL.csproj|d:\\vs\\backend-week_4\\consegnesrl\\consegnesrl\\views\\clienti\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA88C05-6C46-4B8C-8DA2-EC0B712A516B}|consegneSRL\\consegneSRL.csproj|solutionrelative:consegnesrl\\views\\clienti\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\vs\\Backend-week_4\\consegneSRL\\consegneSRL\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "consegneSRL\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\vs\\Backend-week_4\\consegneSRL\\consegneSRL\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "consegneSRL\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:20:03.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StatoSpedizioniController.cs",
+              "DocumentMoniker": "D:\\vs\\Backend-week_4\\consegneSRL\\consegneSRL\\Controllers\\StatoSpedizioniController.cs",
+              "RelativeDocumentMoniker": "consegneSRL\\Controllers\\StatoSpedizioniController.cs",
+              "ToolTip": "D:\\vs\\Backend-week_4\\consegneSRL\\consegneSRL\\Controllers\\StatoSpedizioniController.cs",
+              "RelativeToolTip": "consegneSRL\\Controllers\\StatoSpedizioniController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowD8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:19:45.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\vs\\Backend-week_4\\consegneSRL\\consegneSRL\\Views\\Spedizioni\\Details.cshtml",
+              "RelativeDocumentMoniker": "consegneSRL\\Views\\Spedizioni\\Details.cshtml",
+              "ToolTip": "D:\\vs\\Backend-week_4\\consegneSRL\\consegneSRL\\Views\\Spedizioni\\Details.cshtml",
+              "RelativeToolTip": "consegneSRL\\Views\\Spedizioni\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T13:18:58.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\vs\\Backend-week_4\\consegneSRL\\consegneSRL\\Views\\Spedizioni\\Delete.cshtml",
+              "RelativeDocumentMoniker": "consegneSRL\\Views\\Spedizioni\\Delete.cshtml",
+              "ToolTip": "D:\\vs\\Backend-week_4\\consegneSRL\\consegneSRL\\Views\\Spedizioni\\Delete.cshtml",
+              "RelativeToolTip": "consegneSRL\\Views\\Spedizioni\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T13:18:15.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientiController.cs",
+              "DocumentMoniker": "D:\\vs\\Backend-week_4\\consegneSRL\\consegneSRL\\Controllers\\ClientiController.cs",
+              "RelativeDocumentMoniker": "consegneSRL\\Controllers\\ClientiController.cs",
+              "ToolTip": "D:\\vs\\Backend-week_4\\consegneSRL\\consegneSRL\\Controllers\\ClientiController.cs",
+              "RelativeToolTip": "consegneSRL\\Controllers\\ClientiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T12:46:18.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\vs\\Backend-week_4\\consegneSRL\\consegneSRL\\Views\\Spedizioni\\Edit.cshtml",
+              "RelativeDocumentMoniker": "consegneSRL\\Views\\Spedizioni\\Edit.cshtml",
+              "ToolTip": "D:\\vs\\Backend-week_4\\consegneSRL\\consegneSRL\\Views\\Spedizioni\\Edit.cshtml",
+              "RelativeToolTip": "consegneSRL\\Views\\Spedizioni\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T13:17:33.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpedizioniController.cs",
+              "DocumentMoniker": "D:\\vs\\Backend-week_4\\consegneSRL\\consegneSRL\\Controllers\\SpedizioniController.cs",
+              "RelativeDocumentMoniker": "consegneSRL\\Controllers\\SpedizioniController.cs",
+              "ToolTip": "D:\\vs\\Backend-week_4\\consegneSRL\\consegneSRL\\Controllers\\SpedizioniController.cs",
+              "RelativeToolTip": "consegneSRL\\Controllers\\SpedizioniController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:14:08.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\vs\\Backend-week_4\\consegneSRL\\consegneSRL\\Views\\Spedizioni\\Create.cshtml",
+              "RelativeDocumentMoniker": "consegneSRL\\Views\\Spedizioni\\Create.cshtml",
+              "ToolTip": "D:\\vs\\Backend-week_4\\consegneSRL\\consegneSRL\\Views\\Spedizioni\\Create.cshtml",
+              "RelativeToolTip": "consegneSRL\\Views\\Spedizioni\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T13:16:52.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\vs\\Backend-week_4\\consegneSRL\\consegneSRL\\Views\\Spedizioni\\Index.cshtml",
+              "RelativeDocumentMoniker": "consegneSRL\\Views\\Spedizioni\\Index.cshtml",
+              "ToolTip": "D:\\vs\\Backend-week_4\\consegneSRL\\consegneSRL\\Views\\Spedizioni\\Index.cshtml",
+              "RelativeToolTip": "consegneSRL\\Views\\Spedizioni\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T13:16:20.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\vs\\Backend-week_4\\consegneSRL\\consegneSRL\\Views\\Clienti\\Details.cshtml",
+              "RelativeDocumentMoniker": "consegneSRL\\Views\\Clienti\\Details.cshtml",
+              "ToolTip": "D:\\vs\\Backend-week_4\\consegneSRL\\consegneSRL\\Views\\Clienti\\Details.cshtml",
+              "RelativeToolTip": "consegneSRL\\Views\\Clienti\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T13:13:01.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\vs\\Backend-week_4\\consegneSRL\\consegneSRL\\Views\\Clienti\\Delete.cshtml",
+              "RelativeDocumentMoniker": "consegneSRL\\Views\\Clienti\\Delete.cshtml",
+              "ToolTip": "D:\\vs\\Backend-week_4\\consegneSRL\\consegneSRL\\Views\\Clienti\\Delete.cshtml",
+              "RelativeToolTip": "consegneSRL\\Views\\Clienti\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T13:12:29.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\vs\\Backend-week_4\\consegneSRL\\consegneSRL\\Views\\Clienti\\Edit.cshtml",
+              "RelativeDocumentMoniker": "consegneSRL\\Views\\Clienti\\Edit.cshtml",
+              "ToolTip": "D:\\vs\\Backend-week_4\\consegneSRL\\consegneSRL\\Views\\Clienti\\Edit.cshtml",
+              "RelativeToolTip": "consegneSRL\\Views\\Clienti\\Edit.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T13:10:28.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\vs\\Backend-week_4\\consegneSRL\\consegneSRL\\Views\\Clienti\\Create.cshtml",
+              "RelativeDocumentMoniker": "consegneSRL\\Views\\Clienti\\Create.cshtml",
+              "ToolTip": "D:\\vs\\Backend-week_4\\consegneSRL\\consegneSRL\\Views\\Clienti\\Create.cshtml",
+              "RelativeToolTip": "consegneSRL\\Views\\Clienti\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T13:09:05.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\vs\\Backend-week_4\\consegneSRL\\consegneSRL\\Views\\Clienti\\Index.cshtml",
+              "RelativeDocumentMoniker": "consegneSRL\\Views\\Clienti\\Index.cshtml",
+              "ToolTip": "D:\\vs\\Backend-week_4\\consegneSRL\\consegneSRL\\Views\\Clienti\\Index.cshtml",
+              "RelativeToolTip": "consegneSRL\\Views\\Clienti\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T13:08:35.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

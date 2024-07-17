@@ -1,0 +1,44 @@
+﻿@model IEnumerable<consegneSRL.Models.Spedizione>
+
+@{
+    ViewData["Title"] = "Elenco Spedizioni";
+}
+
+<h1>Elenco Spedizioni</h1>
+
+<p>
+    <a asp-action="Create">Crea Nuova Spedizione</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Numero Identificativo</th>
+            <th>Cliente</th>
+            <th>Data Spedizione</th>
+            <th>Destinatario</th>
+            <th>Città Destinataria</th>
+            <th>Data Consegna Prevista</th>
+            <th>Azioni</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var spedizione in Model)
+        {
+            <tr>
+                <td>@spedizione.NumeroIdentificativo</td>
+                <td>@spedizione.Cliente.Nome @spedizione.Cliente.Cognome</td>
+                <td>@spedizione.DataSpedizione.ToShortDateString()</td>
+                <td>@spedizione.NominativoDestinatario</td>
+                <td>@spedizione.CittàDestinataria</td>
+                <td>@spedizione.DataConsegnaPrevista.ToShortDateString()</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@spedizione.Id">Modifica</a> |
+                    <a asp-action="Details" asp-route-id="@spedizione.Id">Dettagli</a> |
+                    <a asp-action="Delete" asp-route-id="@spedizione.Id">Elimina</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

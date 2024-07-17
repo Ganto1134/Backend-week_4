@@ -1,0 +1,71 @@
+﻿@model consegneSRL.Models.Spedizione
+
+@{
+    ViewData["Title"] = "Crea Nuova Spedizione";
+}
+
+<h1>Crea Nuova Spedizione</h1>
+
+<h4>Spedizione</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div class="form-group">
+                <label asp-for="ClienteId" class="control-label">Cliente</label>
+                <select asp-for="ClienteId" class="form-control" asp-items="@(new SelectList(ViewBag.Clienti, "Id", "Nome"))">
+                    <option value="">Seleziona un cliente</option>
+                </select>
+                <span asp-validation-for="ClienteId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NumeroIdentificativo" class="control-label"></label>
+                <input asp-for="NumeroIdentificativo" class="form-control" />
+                <span asp-validation-for="NumeroIdentificativo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DataSpedizione" class="control-label"></label>
+                <input asp-for="DataSpedizione" class="form-control" />
+                <span asp-validation-for="DataSpedizione" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Peso" class="control-label"></label>
+                <input asp-for="Peso" class="form-control" />
+                <span asp-validation-for="Peso" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CittàDestinataria" class="control-label"></label>
+                <input asp-for="CittàDestinataria" class="form-control" />
+                <span asp-validation-for="CittàDestinataria" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IndirizzoDestinatario" class="control-label"></label>
+                <input asp-for="IndirizzoDestinatario" class="form-control" />
+                <span asp-validation-for="IndirizzoDestinatario" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NominativoDestinatario" class="control-label"></label>
+                <input asp-for="NominativoDestinatario" class="form-control" />
+                <span asp-validation-for="NominativoDestinatario" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Costo" class="control-label"></label>
+                <input asp-for="Costo" class="form-control" />
+                <span asp-validation-for="Costo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DataConsegnaPrevista" class="control-label"></label>
+                <input asp-for="DataConsegnaPrevista" class="form-control" />
+                <span asp-validation-for="DataConsegnaPrevista" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Crea" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Torna all'elenco</a>
+</div>
+
